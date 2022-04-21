@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Auginis
+- 👋 Hi, I’m @AugustinasJukna
 - 👀 I’m interested in AI, blockchain technology
 
 <!---
